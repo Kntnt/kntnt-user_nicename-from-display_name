@@ -3,9 +3,9 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       Kntnt user_nicename from display_name
- * Plugin URI:        https://www.kntnt.com/
+ * Plugin URI:        https://github.com/Kntnt/kntnt-user_nicename-from-display_name
  * Description:       Generates user_nicename, which is used as slug for author archives, from user's display name instead of their login name.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
  * License:           GPL-3.0+
